@@ -1,146 +1,56 @@
-# 👋 Hey there, I'm Kartik Upadhyay
+<div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=700&lines=Computer+Science+Student;C%2B%2B+Developer;DSA+Enthusiast;Open+Source+Contributor;GSoC+%26+LFX+Aspirant;Backend+Developer+in+Progress" />
+# 👋 Hey, I'm Kartik Upadhyay
 
----
+### Branch out. Merge greatness.
 
-## 💫 About Me
+![Stars](https://img.shields.io/github/stars/your-username?style=for-the-badge&color=white&labelColor=black)
+![Forks](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=white&labelColor=black&label=FORKS&query=%24.forks&url=https://api.github.com/users/your-username)
+![Followers](https://img.shields.io/github/followers/your-username?style=for-the-badge&color=white&labelColor=black&label=FOLLOWERS)
 
-🚀 I'm a Computer Science student passionate about solving real-world problems through code.
-
-💻 I enjoy writing efficient programs, improving my problem-solving skills, and exploring production-level open-source projects.
-
-🧠 Currently focused on:
-- Data Structures & Algorithms (LeetCode)
-- Backend Development
-- Open Source Contribution
-- Learning large codebases
-
-🌱 Currently learning:
-- Node.js & Express.js
-- MongoDB
-- REST APIs
-- System Design Fundamentals
-
-🤝 Looking to collaborate on:
-- Open Source Projects
-- Backend Development
-- DSA-based Projects
-- Beginner-friendly GSoC/LFX organizations
-
-🛠️ Currently working on:
-- Daily LeetCode Practice
-- Building Backend Projects
-- Improving Git & GitHub Workflow
-- Preparing for GSoC & LFX Mentorship
-
-💬 Ask me about:
-- C++
-- Data Structures & Algorithms
-- Git & GitHub
-- Open Source
-
-⚡ Fun Fact:
-> Every bug I solve makes me a better developer.
+</div>
 
 ---
 
-## 🌐 Connect With Me
+## 🧠 Know About Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Kartikupadhyay44)
+Hey there! I'm **Kartik**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-upadhyay-360259243/)
-
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+I'm an AI & Data Science undergrad fueled by sambar and an unhealthy obsession with minimalist dark themes. By day, I pretend to understand the universe. By night, I write Python scripts to automate myself out of doing actual work. When I'm not coding, I'm usually crashing helicopters in GTA V or treating my Clash of Clans village like a highly stressful Fortune 500 company.
 
 ---
 
-# 💻 Tech Stack
+## 🔥 Top Projects (built to avoid manual labor)
 
-## 🚀 Languages
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- **[FileGhost](https://github.com/your-username/fileghost)** — Secure file sharing, because some code needs to self-destruct gracefully.
+- **[Gen Ghost v1](https://github.com/your-username/gen-ghost-v1)** — A Discord bot that manages my server better than I manage my sleep schedule.
+- **[QnDocs](https://github.com/your-username/qndocs)** — RAG-based AI to read text files for me, because reading is hard.
 
 ---
 
-## 🌐 Frontend
+## 🔗 Connect
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<div align="center">
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-black?style=for-the-badge&logo=readdotcv&logoColor=white)](https://your-resume-link.com)
 
-## ⚙️ Backend
+</div>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+> Code is never finished. It only becomes slightly less terrible over time.
 
----
-
-## 🗄️ Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+> Every commit I make is essentially just a small, desperate apology to my future self. Someday I will return to this codebase, look at the spaghetti I've written, and wonder who let me anywhere near a keyboard.
 
 ---
 
-## 🛠️ Tools
+## 📈 Contribution
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<div align="center">
 
----
+![Kartik's GitHub Streak](https://streak-stats.demolab.com/?user=your-username&theme=dark&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff)
 
-# 🎯 Current Focus
+![Kartik's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=github-compact&hide_border=true&bg_color=000000&color=ffffff&line=ffffff&point=ffffff)
 
-- 🔥 Solving LeetCode Problems Daily
-- 🌍 Contributing to Open Source
-- 🚀 Preparing for GSoC & LFX Mentorship
-- 📚 Learning Backend Development
-- 💡 Understanding Large Codebases
-
----
-
-# 🎯 2026 Goals
-
-- ⭐ Get selected for GSoC
-- ⭐ Get selected for LFX Mentorship
-- ⭐ Solve 500+ LeetCode Problems
-- ⭐ Contribute to Production Open Source Projects
-- ⭐ Build Scalable Backend Applications
-
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Kartikupadhyay44&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![](https://streak-stats.demolab.com?user=Kartikupadhyay44&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikupadhyay44&theme=tokyonight&hide_border=true&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Kartikupadhyay44&theme=tokyonight&no-frame=true&margin-w=10)
-
----
-
-## 📈 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=Kartikupadhyay44&theme=tokyo-night)
-
----
-
-## ✍️ Developer Quote
-
-> "Great software isn't built by writing perfect code the first time—it's built by continuously learning, debugging, and improving."
-
----
-
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
+</div>
