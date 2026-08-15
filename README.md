@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ==================== HEADER BANNER ==================== -->
-<img src="file:///Users/kartikupadhyay/Downloads/gemini-svg.svg" alt="Kartik Upadhyay Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&text=Kartik%20Upadhyay&fontSize=52&fontColor=ffffff&fontAlignY=45&desc=COMPUTER%20SCIENCE%20•%20AI%20%26%20ML%20•%20FULL-STACK&descFontSize=15&descAlignY=72&descAlign=50&stroke=30363d&strokeWidth=2" width="100%" alt="Kartik Upadhyay Banner"/>
 
 <br/><br/>
 
@@ -12,10 +12,10 @@
 
 <table>
   <tr>
-    <td width="18%" align="center" valign="middle" style="border: none;">
-      <img src="./assets/brain.svg" alt="Brain Illustration" width="90" />
+    <td width="20%" align="center" valign="middle">
+      <img src="https://img.icons8.com/ios-filled/100/ffffff/brain.png" width="70" alt="Brain Icon"/>
     </td>
-    <td width="57%" valign="middle" style="border: none;">
+    <td width="55%" valign="middle">
       <p>
         I am a passionate <b>Computer Science / AI & ML</b> undergraduate and developer who enjoys building scalable web applications, crafting robust backend systems, and solving complex algorithmic challenges.
       </p>
@@ -23,8 +23,8 @@
         I specialize in turning ideas into clean, functional code while actively exploring modern AI/ML pipelines. Finding optimal solutions at <b>2 AM</b> is my vibe.
       </p>
     </td>
-    <td width="25%" align="center" valign="middle" style="border: none;">
-      <img src="./assets/profile-art.svg" alt="Manga Character Art" width="140" />
+    <td width="25%" align="center" valign="middle">
+      <img src="https://api.dicebear.com/7.x/bottts/svg?seed=Kartik&backgroundColor=0d1117" width="100" alt="Developer Avatar"/>
     </td>
   </tr>
 </table>
@@ -62,12 +62,7 @@
 ---
 
 <!-- ==================== TOP PROJECTS ==================== -->
-<table>
-  <tr style="border: none;">
-    <td style="border: none;"><h2 style="margin: 0; padding: 0;">TOP PROJECTS</h2></td>
-    <td align="right" style="border: none;"><img src="./assets/flame.svg" alt="Flame Divider" width="280" /></td>
-  </tr>
-</table>
+## TOP PROJECTS
 
 <table>
   <tr>
@@ -91,7 +86,7 @@
 
 <div align="center">
 
-| [GitHub](https://github.com/Kartikupadhyay44) | [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME) | [Email](mailto:YOUR_EMAIL@example.com) | [Resume](https://YOUR_RESUME_LINK) |
+| [GitHub](https://github.com/Kartikupadhyay44) | [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) | [Email](mailto:YOUR_EMAIL@example.com) | [Resume](https://YOUR_RESUME_LINK) |
 | :---: | :---: | :---: | :---: |
 | `github/Kartikupadhyay44` | `linkedin/in/profile` | `contact@mail.com` | `view_resume.pdf` |
 
