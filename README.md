@@ -1,7 +1,49 @@
 <div align="center">
 
 <!-- ==================== HEADER BANNER ==================== -->
-<img src="./assets/banner.svg" alt="Kartik Upadhyay Banner" width="100%" />
+<img src="<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="100%" height="200">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0a0a" />
+      <stop offset="50%" stop-color="#141414" />
+      <stop offset="100%" stop-color="#050505" />
+    </linearGradient>
+    <filter id="shadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="4" stdDeviation="4" flood-color="#000000" flood-opacity="0.9"/>
+    </filter>
+  </defs>
+
+  <rect width="900" height="200" rx="8" fill="url(#bgGrad)" stroke="#30363d" stroke-width="2"/>
+
+  <!-- Manga Speed Lines & Background Decor -->
+  <g stroke="#ffffff" stroke-opacity="0.08" stroke-width="1.5">
+    <line x1="0" y1="0" x2="300" y2="200" />
+    <line x1="100" y1="0" x2="400" y2="200" />
+    <line x1="900" y1="0" x2="600" y2="200" />
+    <line x1="800" y1="0" x2="500" y2="200" />
+    <line x1="0" y1="100" x2="900" y2="100" stroke-dasharray="8,8" />
+  </g>
+
+  <!-- Manga Eyes Silhouette Background Accent -->
+  <path d="M 120 110 Q 220 80 320 120 Q 220 140 120 110 Z" fill="#ffffff" fill-opacity="0.03" />
+  <path d="M 580 120 Q 680 80 780 110 Q 680 140 580 120 Z" fill="#ffffff" fill-opacity="0.03" />
+
+  <!-- Main Name Typography -->
+  <text x="50%" y="58%" dominant-baseline="middle" text-anchor="middle"
+        font-family="'Impact', 'Cinzel', 'Georgia', serif" 
+        font-size="62" font-weight="900" letter-spacing="3" 
+        fill="#ffffff" stroke="#000000" stroke-width="3" filter="url(#shadow)">
+    Kartik Upadhyay
+  </text>
+  
+  <text x="50%" y="82%" dominant-baseline="middle" text-anchor="middle"
+        font-family="'Courier New', monospace" 
+        font-size="14" letter-spacing="6" 
+        fill="#8b949e">
+    COMPUTER SCIENCE • AI &amp; ML • FULL-STACK
+  </text>
+</svg>
+" alt="Kartik Upadhyay Banner" width="100%" />
 
 <br/><br/>
 
