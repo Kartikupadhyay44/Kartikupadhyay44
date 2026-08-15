@@ -6,7 +6,7 @@
 
 ![Stars](https://img.shields.io/github/stars/your-username?style=for-the-badge&color=white&labelColor=black)
 ![Forks](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=white&labelColor=black&label=FORKS&query=%24.forks&url=https://api.github.com/users/your-username)
-![Followers](https://img.shields.io/github/followers/your-username?style=for-the-badge&color=white&labelColor=black&label=FOLLOWERS)
+![Followers]([https://img.shields.io/github/followers/your-username?style=for-the-badge&color=white&labelColor=black&label=FOLLOWERS](https://github.com/Kartikupadhyay44?tab=followers))
 
 </div>
 
