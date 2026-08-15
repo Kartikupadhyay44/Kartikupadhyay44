@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ==================== HEADER BANNER ==================== -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&text=Kartik%20Upadhyay&fontSize=52&fontColor=ffffff&fontAlignY=45&desc=COMPUTER%20SCIENCE%20•%20AI%20%26%20ML%20•%20FULL-STACK&descFontSize=15&descAlignY=72&descAlign=50&stroke=30363d&strokeWidth=2" width="100%" alt="Kartik Upadhyay Banner"/>
+<img src="https://i.pinimg.com/1200x/35/11/40/3511407df15923bbc85720e712cec44e.jpg" width="100%" alt="Kartik Upadhyay Banner"/>
 
 <br/><br/>
 
