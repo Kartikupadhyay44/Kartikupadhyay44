@@ -1,56 +1,115 @@
 <div align="center">
 
-# 👋 Hey, I'm Kartik Upadhyay
+<!-- ==================== HEADER BANNER ==================== -->
+<img src="./assets/banner.svg" alt="Kartik Upadhyay Banner" width="100%" />
 
-### Branch out. Merge greatness.
+<br/><br/>
 
-![Stars](https://img.shields.io/github/stars/your-username?style=for-the-badge&color=white&labelColor=black)
-![Forks](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=white&labelColor=black&label=FORKS&query=%24.forks&url=https://api.github.com/users/your-username)
-![Followers](https://github.com/Kartikupadhyay44?tab=followers)
+</div>
+
+<!-- ==================== ABOUT SECTION ==================== -->
+## ABOUT KARTIK ⤹
+
+<table>
+  <tr>
+    <td width="18%" align="center" valign="middle" style="border: none;">
+      <img src="./assets/brain.svg" alt="Brain Illustration" width="90" />
+    </td>
+    <td width="57%" valign="middle" style="border: none;">
+      <p>
+        I am a passionate <b>Computer Science / AI & ML</b> undergraduate and developer who enjoys building scalable web applications, crafting robust backend systems, and solving complex algorithmic challenges.
+      </p>
+      <p>
+        I specialize in turning ideas into clean, functional code while actively exploring modern AI/ML pipelines. Finding optimal solutions at <b>2 AM</b> is my vibe.
+      </p>
+    </td>
+    <td width="25%" align="center" valign="middle" style="border: none;">
+      <img src="./assets/profile-art.svg" alt="Manga Character Art" width="140" />
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- ==================== TECHNOLOGIES ==================== -->
+## TECHNOLOGIES
+
+<table>
+  <thead>
+    <tr>
+      <th width="33%" align="left">⬡ Languages</th>
+      <th width="37%" align="left">⊞ Web & Backend</th>
+      <th width="30%" align="left">☊ Problem Solving</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top">
+        <code>C++</code> • <code>C</code> • <code>Python</code> • <code>JavaScript</code> • <code>TypeScript</code>
+      </td>
+      <td valign="top">
+        <code>HTML</code> • <code>CSS</code> • <code>Bootstrap</code> • <code>React</code><br/>
+        <code>Node.js</code> • <code>Express.js</code> • <code>MongoDB</code><br/>
+        <code>Auth & Security</code>
+      </td>
+      <td valign="top">
+        <b>C++</b> → DSA & Problem Solving
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+<!-- ==================== TOP PROJECTS ==================== -->
+<table>
+  <tr style="border: none;">
+    <td style="border: none;"><h2 style="margin: 0; padding: 0;">TOP PROJECTS</h2></td>
+    <td align="right" style="border: none;"><img src="./assets/flame.svg" alt="Flame Divider" width="280" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Project Alpha <span style="font-size: 13px; font-weight: normal; float: right;"><code>React</code> <code>Node.js</code></span></h3>
+      <p>Full-stack web application featuring secure user authentication, interactive dashboards, and REST APIs.</p>
+      <p><a href="https://github.com/Kartikupadhyay44"><b>➔ View Repository</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Project Beta <span style="font-size: 13px; font-weight: normal; float: right;"><code>Python</code> <code>AI/ML</code></span></h3>
+      <p>Machine learning predictive pipeline and data analysis system with optimized backend processing.</p>
+      <p><a href="https://github.com/Kartikupadhyay44"><b>➔ View Repository</b></a></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- ==================== CONNECT ==================== -->
+## CONNECT
+
+<div align="center">
+
+| [GitHub](https://github.com/Kartikupadhyay44) | [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME) | [Email](mailto:YOUR_EMAIL@example.com) | [Resume](https://YOUR_RESUME_LINK) |
+| :---: | :---: | :---: | :---: |
+| `github/Kartikupadhyay44` | `linkedin/in/profile` | `contact@mail.com` | `view_resume.pdf` |
+
+<br/>
+
+> *"Code is never truly finished."*  
+> *"A clean commit tells a great story."*  
+> *"The best bugs teach the deepest lessons."*
 
 </div>
 
 ---
 
-## 🧠 Know About Me
-
-Hey there! I'm **Kartik**.
-
-I'm an AI & Data Science undergrad fueled by sambar and an unhealthy obsession with minimalist dark themes. By day, I pretend to understand the universe. By night, I write Python scripts to automate myself out of doing actual work. When I'm not coding, I'm usually crashing helicopters in GTA V or treating my Clash of Clans village like a highly stressful Fortune 500 company.
-
----
-
-## 🔥 Top Projects (built to avoid manual labor)
-
-- **[FileGhost](https://github.com/your-username/fileghost)** — Secure file sharing, because some code needs to self-destruct gracefully.
-- **[Gen Ghost v1](https://github.com/your-username/gen-ghost-v1)** — A Discord bot that manages my server better than I manage my sleep schedule.
-- **[QnDocs](https://github.com/your-username/qndocs)** — RAG-based AI to read text files for me, because reading is hard.
-
----
-
-## 🔗 Connect
+<!-- ==================== CONTRIBUTION ==================== -->
+## CONTRIBUTION
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-black?style=for-the-badge&logo=readdotcv&logoColor=white)](https://your-resume-link.com)
-
-</div>
-
-> Code is never finished. It only becomes slightly less terrible over time.
-
-> Every commit I make is essentially just a small, desperate apology to my future self. Someday I will return to this codebase, look at the spaghetti I've written, and wonder who let me anywhere near a keyboard.
-
----
-
-## 📈 Contribution
-
-<div align="center">
-
-![Kartik's GitHub Streak](https://streak-stats.demolab.com/?user=your-username&theme=dark&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff)
-
-![Kartik's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=github-compact&hide_border=true&bg_color=000000&color=ffffff&line=ffffff&point=ffffff)
+[![Kartik's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kartikupadhyay44&bg_color=0d1117&color=58a6ff&line=39d353&point=ffffff&area=true&hide_border=true)](https://github.com/Kartikupadhyay44)
 
 </div>
