@@ -13,7 +13,7 @@
 <table>
   <tr>
     <td width="20%" align="center" valign="middle">
-      <img src="https://i.pinimg.com/1200x/52/c1/13/52c113261b11744f4723bd107c4c40d7.jpg" width="70" alt="Brain Icon"/>
+      <img src="https://i.pinimg.com/1200x/52/c1/13/52c113261b11744f4723bd107c4c40d7.jpg" width="300" alt="Brain Icon"/>
     </td>
     <td width="55%" valign="middle">
       <p>
