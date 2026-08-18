@@ -13,7 +13,7 @@
 <table>
   <tr>
     <td width="20%" align="center" valign="middle">
-      <img src="https://img.icons8.com/ios-filled/100/ffffff/brain.png" width="70" alt="Brain Icon"/>
+      <img src="https://i.pinimg.com/1200x/52/c1/13/52c113261b11744f4723bd107c4c40d7.jpg" width="70" alt="Brain Icon"/>
     </td>
     <td width="55%" valign="middle">
       <p>
@@ -24,7 +24,7 @@
       </p>
     </td>
     <td width="25%" align="center" valign="middle">
-      <img src="https://api.dicebear.com/7.x/bottts/svg?seed=Kartik&backgroundColor=0d1117" width="100" alt="Developer Avatar"/>
+      <img src="https://i.pinimg.com/1200x/b8/5b/5e/b85b5ee3bfc34d6e2c665f31d375528e.jpg" width="400" alt="Developer Avatar"/>
     </td>
   </tr>
 </table>
