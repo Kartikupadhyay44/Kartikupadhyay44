@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ==================== HEADER BANNER ==================== -->
-<img src="https://i.pinimg.com/1200x/bd/b8/f5/bdb8f5acfcac08b45a4d295881eefd6b.jpg" width="100%" alt="Kartik Upadhyay Banner"/>
+<img src="https://i.pinimg.com/736x/d3/fd/09/d3fd09d234163e9f21f3dbc93670e1e9.jpg" width="100%" alt="Kartik Upadhyay Banner"/>
 
 <br/><br/>
 
