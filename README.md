@@ -115,11 +115,18 @@ alt="Kartik Upadhyay GitHub Streak Stats"
 
 </a>
 
-<br><br>
+<br>
+
 
 <img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Kartikupadhyay44"
+  alt="Kartik Upadhyay Contribution Graph"
+/>
+
+
+<!-- <img
 src="https://YOUR-VERCEL-DOMAIN.vercel.app/graph?username=Kartikupadhyay44&bg_color=0d1117&color=58a6ff&line=ffffff&point=58a6ff&area=true&hide_border=false"
 alt="Kartik Upadhyay Contribution Graph"
-/>
+/> -->
 
 </div>
