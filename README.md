@@ -101,28 +101,25 @@
 ---
 
 <!-- ====================== CONTRIBUTION ====================== -->
-## CONTRIBUTION
 
 ## CONTRIBUTION
 
 <div align="center">
 
-<!-- GitHub Streak Statistics -->
 <a href="https://github.com/Kartikupadhyay44">
 
 <img
-  src="https://streak-stats.demolab.com/?user=Kartikupadhyay44&theme=dark&background=0d1117&border=30363d&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=58a6ff&sideLabels=ffffff&dates=8b949e&hide_border=false"
-  alt="Kartik Upadhyay GitHub Streak Stats"
+src="https://streak-stats.demolab.com/?user=Kartikupadhyay44&theme=dark&background=0d1117&border=30363d&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=58a6ff&sideLabels=ffffff&dates=8b949e"
+alt="Kartik Upadhyay GitHub Streak Stats"
 />
 
 </a>
 
 <br><br>
 
-<!-- GitHub Contribution Graph -->
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Kartikupadhyay44&bg_color=0d1117&color=58a6ff&line=ffffff&point=58a6ff&area=true&hide_border=false"
-  alt="Kartik Upadhyay Contribution Graph"
+src="https://YOUR-VERCEL-DOMAIN.vercel.app/graph?username=Kartikupadhyay44&bg_color=0d1117&color=58a6ff&line=ffffff&point=58a6ff&area=true&hide_border=false"
+alt="Kartik Upadhyay Contribution Graph"
 />
 
 </div>
