@@ -105,6 +105,6 @@
 
 <div align="center">
 
-[![Kartik's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kartikupadhyay44&bg_color=0d1117&color=58a6ff&line=39d353&point=ffffff&area=true&hide_border=true)](https://github.com/Kartikupadhyay44)
+![Kartik's GitHub Contributions](https://ghchart.rshah.org/58a6ff/Kartikupadhyay44)
 
 </div>
