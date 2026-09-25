@@ -105,6 +105,10 @@
 
 <div align="center">
 
-![Kartik's GitHub Contributions](https://ghchart.rshah.org/58a6ff/Kartikupadhyay44)
+<img 
+  src="https://ghchart.rshah.org/58a6ff/Kartikupadhyay44"
+  alt="Kartik Upadhyay GitHub Contributions"
+  width="100%"
+/>
 
 </div>
