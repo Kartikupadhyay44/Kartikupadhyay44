@@ -53,7 +53,7 @@
         <code>Auth & Security</code>
       </td>
       <td valign="top">
-        <b>C++</b> → DSA & Problem Solving
+        <b>C++ , JAVA</b> → DSA & Problem Solving
       </td>
     </tr>
   </tbody>
